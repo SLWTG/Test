@@ -4,3 +4,6 @@ bbbbb
 ccccc:
 d
 e
+
+git diff
+merge conflict master
